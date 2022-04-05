@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-05 08:53:33</sys_created_on>
+        <sys_id>f292cea787220110b9f6caaf8bbb3585</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_f292cea787220110b9f6caaf8bbb3585</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-05 08:53:33</sys_updated_on>
+        <title><![CDATA[<p style="text-align: center;"><img style="float: left;" title="" src="sys_attachment.do?sys_id&#61;6f03ca6387220110b9f6caaf8bbb35c2" alt="" width="256" height="256" align="baseline" border="" hspace="" vspace="" /><span style="font-size: 18pt;"> </span></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><span style="font-size: 18pt;">Need Application Settings</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Here are the application settings for the NeedIT Application</span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=f292cea787220110b9f6caaf8bbb3585"/>
+</record_update>
